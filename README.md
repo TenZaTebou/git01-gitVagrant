@@ -142,7 +142,7 @@ Adresář `srv01/.vagrant/` vznikne pouze lokálně při práci s Vagrantem a ne
 - **Distribuce a verze:** Debian GNU/Linux 13 (trixie)
 - **Použitý Vagrant box:** bento/debian-13
 - **Adresář serveru:** srv01
-- **Výsledek spuštění a přihlášení:** V pořádku to najelo. `vagrant up` i `vagrant ssh` fungoval bez chyb.
+- **Výsledek spuštění a přihlášení:** V pořádku to najelo. vagrant up i vagrant ssh fungoval bez chyb.
 - **Případné problémy a jejich řešení:** Všechno šlo jak po másle.
 - **Kontrolní kód a záznam ze serveru:** 
 **Kontrolní kód:** `SPOS-3I-cfb5636109f3713991f4a99e2e60196f2d899ec89d0c757b2e8f8cd28fc84951`
