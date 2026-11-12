@@ -145,16 +145,16 @@ Adresář `srv01/.vagrant/` vznikne pouze lokálně při práci s Vagrantem a ne
 - **Výsledek spuštění a přihlášení:** V pořádku to najelo. vagrant up i vagrant ssh fungoval bez chyb.
 - **Případné problémy a jejich řešení:** Všechno šlo jak po másle.
 - **Kontrolní kód a záznam ze serveru:** 
-**Kontrolní kód:** `SPOS-3I-cfb5636109f3713991f4a99e2e60196f2d899ec89d0c757b2e8f8cd28fc84951`
+**Kontrolní kód:** `SPOS-3I-3c238db385b4aa72473f29d90b91aa7e2f87dd9814556dd5f1b7249c16c52edd`
 
 ```text
 Úloha: git-vagrant / SPOŠ / 3. I / v1
 Distribuce: Debian GNU/Linux 13 (trixie)
-Hostname: debian13
+Hostname: srv01
 Kernel: 6.12.48+deb13-amd64
 Virtualizace: oracle
-Čas UTC: 2026-09-25T06:28:10Z
-Náhodné ID: 81cd9340-921c-4b7d-a233-20176c5fa46d
+Čas UTC: 2026-11-12T21:22:39Z
+Náhodné ID: 06f70f61-c85c-45e0-8815-77cf59bd2f9d
 ```
 
 - **Bonus – AI obrázek a použitý prompt:** 
